@@ -14,3 +14,4 @@
 
 <h2> Technologies </h2>
 
+![Cover](https://github.com/MaximusGen/MaximuGen/blob/master/img/3862-astronomie-vue-de-la-terre-WallFizz.jpg)
