@@ -12,6 +12,7 @@
   <li>📺 Cin-ries (📂)</li>
 </ul>
 
-<h2> <i class="fas fa-file-code"></i>Technologies </h2>
+<h2> Technologies </h2>
 
 
+![1216733](https://user-images.githubusercontent.com/79148312/150314484-0012c2a4-64a8-48ac-9196-ece92183f247.png)
