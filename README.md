@@ -6,6 +6,8 @@
     Mes premiers pas en tant que développeur web, ce fut pendant ma formation Openclassrooms ( formation de 6 mois autour de 7 projets à réaliser avec l'aide d'un mentor). Aujourd'hui je développe des projets personnelles.
 </p> 
 
+- [Praveen](https://github.com/MaximusGen)
+
 <h2> Projet en cours ...</h2>
 
 <ul>
@@ -14,4 +16,9 @@
 
 <h2> Technologies </h2>
 
-![Cover](https://github.com/MaximusGen/MaximusGen/blob/main/img/3862-astronomie-vue-de-la-terre-WallFizz.jpg)
+<p align="center">
+ <img src=">
+     
+ </a>
+</p>
+ 
