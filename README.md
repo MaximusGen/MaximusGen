@@ -17,6 +17,8 @@ Mes premiers pas en tant que développeur web, ce fut pendant ma formation Openc
 
 <h2> Technologies </h2>
 
+
+
 <p align="center">
     
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
