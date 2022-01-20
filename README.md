@@ -12,6 +12,6 @@
   <li>📺 Cin-ries (📂)</li>
 </ul>
 
-<h2> f1c9 Technologies </h2>
+<h2> <i class="fas fa-file-code"></i>Technologies </h2>
 
 
