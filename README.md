@@ -1,4 +1,6 @@
 
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
 <h1> Bienvenue sur mon GitHub !! 🤝 </h1>
 
 
@@ -6,7 +8,6 @@
     Mes premiers pas en tant que développeur web, ce fut pendant ma formation Openclassrooms ( formation de 6 mois autour de 7 projets à réaliser avec l'aide d'un mentor). Aujourd'hui je développe des projets personnelles.
 </p> 
 
-- [Praveen](https://github.com/MaximusGen)
 
 <h2> Projet en cours ...</h2>
 
