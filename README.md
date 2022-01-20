@@ -13,5 +13,4 @@
 </ul>
 
 <h2> Technologies </h2>
-![1216733](https://user-images.githubusercontent.com/79148312/150314694-4645ced2-7a9b-4452-ade9-fd21812f0a4f.png)
 
