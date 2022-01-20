@@ -24,3 +24,5 @@
 <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />    
 </p>
  
+ 
+ ![github stats](https://github-readme-stats.vercel.app/api?username=MaximusGen)
