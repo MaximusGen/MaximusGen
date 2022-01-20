@@ -28,7 +28,7 @@ Mes premiers pas en tant que développeur web, ce fut pendant ma formation Openc
 
 </p>
 
-<h3>Mes Réseaux</h3>
+<h2>Mes Réseaux</h2>
 
 <p align="center">
     
