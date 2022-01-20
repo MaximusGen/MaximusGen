@@ -11,8 +11,8 @@ Mes premiers pas en tant que développeur web, ce fut pendant ma formation Openc
 
 <h2>Projet en cours</h2>
 
-<ul>
-  <li>📺 Cin-ries (📂)</li>
+<ul> 
+  <li>📺 Cin-ries (<a href="https://github.com/MaximusGen/Cin-ries">📂 </a>)</li>
 </ul>
 
 <h2> Technologies </h2>
